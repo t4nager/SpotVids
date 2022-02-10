@@ -14,4 +14,4 @@ Install dependencies
 
 ### Usage
 
-It's pretty straight forward. Get an access token from Spotify for your account and use it to run the application. 
+It's pretty straight forward. Get an access token with "user-read-currently-playing" permissions from Spotify for your account and use it to run the application. 
